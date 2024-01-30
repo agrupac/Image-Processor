@@ -3,7 +3,7 @@ import java.io.PrintWriter;
 
 /**
 * Program takes in an input image, performs operations on it, and saves it to an output image
-* @author Aidan Grupac G01367405
+* @author Aidan Grupac
 */
 public class ImagingApp{
 
