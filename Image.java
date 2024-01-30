@@ -3,7 +3,7 @@ import java.io.File;
 
 /**
 * A class representing a single Image object, where operations are performed
-* @author Aidan Grupac G01367405
+* @author Aidan Grupac
 */
 public class Image{
 
