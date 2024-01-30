@@ -2,7 +2,7 @@ import java.io.PrintWriter;
 
 /**
 * A class representing a single Tile object, which makes up an Image
-* @author Aidan Grupac G01367405
+* @author Aidan Grupac
 */
 public class Tile{
 
