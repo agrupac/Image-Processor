@@ -1,6 +1,6 @@
 /**
 * A class representing a single Pixel object, which makes up a Tile object
-* @author Aidan Grupac G01367405
+* @author Aidan Grupac
 */
 public class Pixel{
 
